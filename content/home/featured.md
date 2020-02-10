@@ -6,7 +6,7 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = ""
@@ -16,14 +16,14 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 2
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "" 
     category = ""
     publication_type = ""
   
@@ -62,3 +62,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+[See all publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}

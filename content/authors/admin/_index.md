@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Anthony Caravaggi
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Conservation Biology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of South Wales
+  url: "https://www.southwales.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Conservation biology
+- Invasive / endangered species
+- Human-wildlife interactions
+- Movement & spatial ecology
+- Community & population ecology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in conservation biology and invasion ecology
+    institution: Queens University Belfast
+    year: 2016
+  - course: MRes in Biodiversity and Conservation
+    institution: University of Leeds
+    year: 2011
+  - course: BSc (Hons) in Zoology with Conservation
+    institution: Bangor University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,18 +49,18 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/thonoir
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/arcaravaggi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +72,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Lecturer in Conservation Biology and ecologist at the [The University of South Wales](https://www.southwales.ac.uk/). My work is broadly focussed on conducting research that increases our understanding of species ecologies and informs conservation and management processes. I am interested in applying new technologies to conservation questions, and connecting people with science and nature.   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm always open to new collaborations and speaking to prospective students. If there's anything you'd like to discuss, please [get in touch](#contact).
+
+I am the creator and organiser of the twitter-based science communication project, [@Biotweeps](https://twitter.com/biotweeps) and Associate Editor of the journal [*Remote Sensing in Ecology and Conservation*](https://zslpublications.onlinelibrary.wiley.com/journal/20563485). 
+
