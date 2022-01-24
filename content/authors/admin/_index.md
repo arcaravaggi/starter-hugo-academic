@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Conservation Biology
+role: Lecturer in Conservation Biology and Course Leader BSc (Hons) International Wildlife Biology
 
 # Organizations/Affiliations
 organizations:
@@ -22,10 +22,13 @@ bio:
 
 interests:
 - Conservation biology
-- Invasive / endangered species
-- Human-wildlife interactions
-- Movement & spatial ecology
 - Community & population ecology
+- Movement & spatial ecology
+- Invasive species
+- Threatened species
+- Human-wildlife interactions
+
+
 
 education:
   courses:
@@ -47,15 +50,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/thonoir
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/arcaravaggi
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/thonoir
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/doc_thon
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -72,9 +78,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Lecturer in Conservation Biology and ecologist at the [The University of South Wales](https://www.southwales.ac.uk/). My work is broadly focussed on conducting research that increases our understanding of species ecologies and informs conservation and management processes. I am interested in applying new technologies to conservation questions, and connecting people with science and nature.   
+I am a Lecturer in Conservation Biology and course leader for BSc (Hons) International Wildlife Biology at the [The University of South Wales](https://www.southwales.ac.uk/). My work is broadly focussed on conducting research that increases our understanding of species ecologies and informs conservation and management processes.
 
 I'm always open to new collaborations and speaking to prospective students. If there's anything you'd like to discuss, please [get in touch](#contact).
 
-I am the creator and organiser of the twitter-based science communication project, [@Biotweeps](https://twitter.com/biotweeps) and Associate Editor of the journal [*Remote Sensing in Ecology and Conservation*](https://zslpublications.onlinelibrary.wiley.com/journal/20563485). 
 

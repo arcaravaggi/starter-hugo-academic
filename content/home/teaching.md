@@ -29,83 +29,68 @@ weight = 40
 #Megnyi Liu (BSc). *Behavioural ecology of Irish hares*. Queen's University Belfast.     
 #Claire Molloy(BSc). *Behavioural ecology of European hares*. Queen's University Belfast.     
 #Ashley Irwin (BSc). *Forage quality of vegetation associated with sympatric Irish and European hares*. Queen's University Belfast.  
+#Alli Barg (MSc). *Modeling collision hotspots and probabilities for polecats in Wales*. University of South Wales & Vincent Wildlife Trust.  
+#Bianca Gittens (MSc). *Multi-species occurrence models of urban garden mammals based on citizen science data*. University of South Wales & People's Trust for Endangered Species.   
+#Sophie Hazell (MSc). *Comparing different sources of citizen science data in unstudied locations across the UK*. University of South Wales & University of Exeter.   
+#Jessica Stone (MSc). *Attitudes to agri-environment schemes, conservation and biodiversity among Welsh farmers*. University of South Wales & Farmer's Union of Wales.   
+
+#**University of South Wales** (2019-present)  
+#*Module leader* 
+#*2019-*   
+#GE1S008 - Observational Fieldwork  
+#Field-focussed, this module teaches fundamental ecological skills, including observational, surveying and recording techniques, species identification and behavioural observations.   
+#GE2S008 - Biodiversity and Biogeography   
+#Explores fundamental ideas in biogeography, including the global distribution or organisms in the past and present, and their relationships with physical environments.
+#GE2S017 - Research Methods in Natural History    
+#This module aims to develop subject-specific skills through the use of meaningful examples in experimental tasks, underpinned with theoretical content, including subjects such as behavioural sciences, genetics, ecological principles and field biology. 
+#GE3S009 - Mediterranean Field Expedition   
+#Field-focussed and centred on instrumental measurement, fieldwork surveys and analysis of material and data collected from areas within the Mediterranean biome.
+#ES4S011 - European Field Expedition    
+#Field-focussed and centred on field skills relevant to the study of terrestrial tetrapods, large mammals in particular.
+#*Teaching*     
+#*2018-*     
+#BI3D104 - Natural History Research Project   
+#BI3S109 - Advanced Ecology   
+#GE0S04  - Foundation in Natural History  
+#GE1S008 - Observational Fieldwork  
+#GE1S010 - Natural History  
+#GE2S008 - Biodiversity & Biogeography   
+#GE2S017 - Research Methods in Natural History  
+#GE3S008 - Natural History Field Expedition   
+#GE3S009 - Mediterranean Field Expedition    
+#ES4H001 - Environmental Management and Legislation   
+#ES4H002 - Wildlife Surveying    
+#ES4S009 - Restoration Ecology   
+#ES4S010 - Terrestrial and Aquatic Conservation   
+#ES4S011 - European Field Expedition    
+#ES4T001 - MSc Research Projects
+#**University College Cork** (2017-18)   
+#*Module leader*       
+#*2017-18*   
+#BL6024 Quantitative skills for biologists using R.         
+#Quantitative skills required by postgraduate students to successfully conduct and publish their research, with a focus on data analysis and graphing, statistics, and basic modelling, as generally implemented by zoologists and ecologists. 
+#*Teaching*
+#*2017-18*
+#BL6024 - Quantitative skills for biologists using R.     
+#**Queen's University Belfast** (2012-16)
+#Introduction to GIS (Teaching Assistant)   
+#Animal Biology (Teaching Assistant)   
+#Undergraduate residential field courses   
+
 
 +++
 
 As a teacher I aim to provide my students with skills, knowledge and confidence critical to their academic and personal development. I take an inclusive approach, developing strong relationships and encouraging discussion.  I work to support my students in all aspects while respecting their individuality and independence. 
 
 
-**Current research students**    
-Samantha Ball (PhD). *Managing hares at Dublin airport*. University College Cork.  
+**Current postgraduate research students**    
+Samantha Ball (PhD). *Managing hares at Dublin airport*. University College Cork. Co-supervised with Dr. Fidelma Butler, University College Cork.
 
-Alan McCarthy (PhD). *The importance of wintering ecology for the conservation management of Hen Harriers (Circus cyaneus) in Ireland*. University College Cork.   
+Alan McCarthy (PhD). *The importance of wintering ecology for the conservation management of Hen Harriers (Circus cyaneus) in Ireland*. University College Cork. Co-supervised with Prof. John O'Halloran & Dr. Fidelma Butler, University College Cork.
 
-Lynsey Devine (PhD). *Impacts on freshwater invertebrates in UK uplands and the evaluation of monitoring and management techniques*. University of South Wales.   
+Lynsey Devine (PhD). *Impacts on freshwater invertebrates in UK uplands and the evaluation of monitoring and management techniques*. University of South Wales. Co-supervised with Dr. David Lee, USW.
 
-Alli Barg (MSc). *Modeling collision hotspots and probabilities for polecats in Wales*. University of South Wales & Vincent Wildlife Trust.  
+Giselle Bonney (MSc). Spatial variation of and factors relevant to avian casualties at wildlife care centres in western Canada. Co-supervised with Dr. Emma Higgins, USW.
 
-Bianca Gittens (MSc). *Multi-species occurrence models of urban garden mammals based on citizen science data*. University of South Wales & People's Trust for Endangered Species.   
-
-Sophie Hazell (MSc). *Comparing different sources of citizen science data in unstudied locations across the UK*. University of South Wales & University of Exeter.   
-
-Jessica Stone (MSc). *Attitudes to agri-environment schemes, conservation and biodiversity among Welsh farmers*. University of South Wales & Farmer's Union of Wales.   
-   
-    
-**University of South Wales** (2019-present)  
-*Module leader* 
-*2019-*   
-GE1S008 - Observational Fieldwork  
-Field-focussed, this module teaches fundamental ecological skills, including observational, surveying and recording techniques, species identification and behavioural observations.   
-
-
-GE2S008 - Biodiversity and Biogeography   
-Explores fundamental ideas in biogeography, including the global distribution or organisms in the past and present, and their relationships with physical environments.
-
-
-GE2S017 - Research Methods in Natural History    
-This module aims to develop subject-specific skills through the use of meaningful examples in experimental tasks, underpinned with theoretical content, including subjects such as behavioural sciences, genetics, ecological principles and field biology. 
-
-
-GE3S009 - Mediterranean Field Expedition   
-Field-focussed and centred on instrumental measurement, fieldwork surveys and analysis of material and data collected from areas within the Mediterranean biome.
-
-
-ES4S011 - European Field Expedition    
-Field-focussed and centred on field skills relevant to the study of terrestrial tetrapods, large mammals in particular.
-
-
-
-*Teaching*     
-*2018-*     
-BI3D104 - Natural History Research Project   
-BI3S109 - Advanced Ecology   
-GE0S04  - Foundation in Natural History  
-GE1S008 - Observational Fieldwork  
-GE1S010 - Natural History  
-GE2S008 - Biodiversity & Biogeography   
-GE2S017 - Research Methods in Natural History  
-GE3S008 - Natural History Field Expedition   
-GE3S009 - Mediterranean Field Expedition    
-ES4H001 - Environmental Management and Legislation   
-ES4H002 - Wildlife Surveying    
-ES4S009 - Restoration Ecology   
-ES4S010 - Terrestrial and Aquatic Conservation   
-ES4S011 - European Field Expedition    
-ES4T001 - MSc Research Projects
-
-
-**University College Cork** (2017-18)   
-*Module leader*       
-*2017-18*   
-BL6024 Quantitative skills for biologists using R.         
-Quantitative skills required by postgraduate students to successfully conduct and publish their research, with a focus on data analysis and graphing, statistics, and basic modelling, as generally implemented by zoologists and ecologists. 
-
-*Teaching*
-*2017-18*
-BL6024 - Quantitative skills for biologists using R.     
-
-**Queen's University Belfast** (2012-16)
-Introduction to GIS (Teaching Assistant)   
-Animal Biology (Teaching Assistant)   
-Undergraduate residential field courses   
+Vikki Coombes (MSc). Felid co-existence and activity patterns following the depletion of water availability in Calakmul Biosphere Reserve. Co-supervised with Dr. Kathy Slater (Operation Wallacea).
 

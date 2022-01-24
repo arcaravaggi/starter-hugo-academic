@@ -3,8 +3,8 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = false
-date = 2018-10-05
+active = true
+date = 2021-12-04
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Research"
@@ -15,14 +15,8 @@ weight = 20
 
 +++
 
-**Prospective Students**    
-I am always interested in hearing from prospective students who are interested in joining the research group. I encourage women, queer, indigenous, and other minority group scholars to get in touch. I support flexible working hours and locations.     
+My research focuses on increasing our understanding of the various aspects of species-specific and community ecology. 
 
-[Contact me](#contact) for information.   
+I use field studies, remote-sensing and contemporary and historical data, along with R code and GIS software, to answer robust questions related to species distributions, community ecology, habitat selection, and anthropogenic impacts. My work has implications for and informs conservation and management processes, policy, and commercial enterprises. 
 
-**Current Opportunities**   
-
-I have no projects available at present. However, I am always happy to discuss potential collaborations with students. If you have something you're interested in and think we'd work well together, please do get in touch.   
-
-
-
+I am the Editor of the journal Milvus:the Journal of the Welsh Ornithological Society, and Associate Editor of the journal Remote Sensing in Ecology and Conservation. I am also a member of the BES Welsh Policy Group, Gylfinir Cymru, CIEEM, and USW's Athena SWAN committee.
